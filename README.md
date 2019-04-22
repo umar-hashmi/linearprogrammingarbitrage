@@ -16,6 +16,16 @@ Using numerical results we perform sensitivity analysis of energy storage batter
 ![alt text](https://github.com/umar-hashmi/linearprogrammingarbitrage/blob/master/lpcost.jpg)
 
 
+Variables:
+(i) p_b(i) Buying price at time instant i
+(ii) p_s(i) Selling price at time instant i
+(iii) z_i denotes net-load without storage output; it includes inelastic consumer load and consumer renewable generation
+(iv) \kappa_i  is the ratio of selling price and buying price at time i
+(v) \eta_{dis}, \eta_{ch}  charging and discharging efficiency of the battery
+(vi) \kappa_i  is the ratio of selling price and buying price at time i
+(vii) x_i denotes change in battery charge level at time instant i
+
+
 
 ## Code Dependencies
 All code are implemented in MATLAB.
