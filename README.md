@@ -13,7 +13,7 @@ The LP formulation is possible due to piecewise linear convex cost functions.
 In this formulation we consider: (a) net-metering compensation (with selling price at best equal to buying price) i.e. $\kappa_i \in [0,1]$, (b) inelastic load, (c) consumer renewable generation, (d) storage charging and discharging losses, (e) storage ramping constraint and (f) storage capacity constraint. 
 Using numerical results we perform sensitivity analysis of energy storage batteries for varying ramp rates and varying ratio of selling and buying price of electricity.
 
-![alt text](https://www.dropbox.com/s/zn9dxh9ifv9t6rv/lpcost.jpg)
+![alt text](https://github.com/umar-hashmi/linearprogrammingarbitrage/blob/master/lpcost.jpg)
 
 
 
