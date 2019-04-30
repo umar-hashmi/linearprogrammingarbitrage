@@ -1,5 +1,5 @@
 # Optimal Energy Arbitrage using Linear Programming
-Code repo for our 2019 paper: Optimal Storage Arbitrage under Net Metering Policies using Linear Programming
+Code repo for our 2019 paper: Optimal Storage Arbitrage under Net Metering using Linear Programming
 
 Authors: Md Umar Hashmi, Arpan Mukhopadhyay, Ana Bu\v{s}i\'c, and Jocelyne Elias
 
